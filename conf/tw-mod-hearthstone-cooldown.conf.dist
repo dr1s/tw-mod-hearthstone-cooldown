@@ -1,0 +1,11 @@
+###################################################################################################
+# tw-mod-hearthstone-cooldown module configuration
+###################################################################################################
+
+[HearthstoneCooldown]
+
+# Enables the custom hearthstone cooldown. Set to 0 to leave the default cooldown unchanged.
+HearthstoneCooldown.Enable = 1
+
+# Hearthstone cooldown in minutes. Set to 0 to remove the cooldown entirely.
+HearthstoneCooldown.CooldownMinutes = 5
